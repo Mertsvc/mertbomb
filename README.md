@@ -1,2 +1,0 @@
-# mertbomb
-mert sms
